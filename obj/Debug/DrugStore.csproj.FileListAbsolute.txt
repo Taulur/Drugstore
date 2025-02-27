@@ -1,0 +1,10 @@
+C:\chubarkov\DrugStore\bin\Debug\DrugStore.exe.config
+C:\chubarkov\DrugStore\bin\Debug\DrugStore.exe
+C:\chubarkov\DrugStore\bin\Debug\DrugStore.pdb
+C:\chubarkov\DrugStore\obj\Debug\DrugStore.csproj.AssemblyReference.cache
+C:\chubarkov\DrugStore\obj\Debug\DrugStore.Form1.resources
+C:\chubarkov\DrugStore\obj\Debug\DrugStore.Properties.Resources.resources
+C:\chubarkov\DrugStore\obj\Debug\DrugStore.csproj.GenerateResource.cache
+C:\chubarkov\DrugStore\obj\Debug\DrugStore.csproj.CoreCompileInputs.cache
+C:\chubarkov\DrugStore\obj\Debug\DrugStore.exe
+C:\chubarkov\DrugStore\obj\Debug\DrugStore.pdb
